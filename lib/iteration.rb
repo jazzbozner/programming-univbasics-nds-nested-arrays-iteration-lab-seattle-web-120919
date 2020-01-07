@@ -21,10 +21,10 @@ def find_greater_pair(arr)
       result.push(arr[rowindex][1])
     end
     row_index += 1
-  end
   result
 end
 end
+
 
 #   result = []
 #   row_index = 0
