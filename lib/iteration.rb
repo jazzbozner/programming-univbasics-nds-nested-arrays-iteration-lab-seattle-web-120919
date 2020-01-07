@@ -10,5 +10,6 @@ def join_ingredients(arr)
   result
 end
 
-def find_greater_pair
+def find_greater_pair(arr)
+  
 end
