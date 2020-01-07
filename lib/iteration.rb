@@ -24,6 +24,7 @@ def find_greater_pair(arr)
   end
   result
 end
+end
 
 #   result = []
 #   row_index = 0
