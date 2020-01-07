@@ -1,2 +1,3 @@
-def join_ingredients
+def join_ingredients(arr)
+  
 end
