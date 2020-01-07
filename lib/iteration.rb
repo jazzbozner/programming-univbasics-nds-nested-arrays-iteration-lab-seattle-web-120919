@@ -36,5 +36,5 @@ def find_greater_pair(arr)
     end
     row_index += 1
   end
-#   result
-# end
+  result
+end
