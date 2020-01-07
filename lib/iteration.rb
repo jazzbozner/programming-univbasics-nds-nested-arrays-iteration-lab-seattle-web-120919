@@ -18,7 +18,7 @@ def find_greater_pair(arr)
     if arr[row_index][0] >= arr[row_index][1])
       result.push(arr[row_index[0])
     else
-      result.push(arr[rowindex])
+      result.push(arr[rowindex][1])
     row_index += 1
   end
   result
