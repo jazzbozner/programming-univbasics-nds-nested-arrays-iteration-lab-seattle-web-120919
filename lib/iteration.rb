@@ -21,5 +21,6 @@ def find_greater_pair(arr)
       result.push(arr[rowindex][1])
     row_index += 1
   end
+  end
   result
 end
