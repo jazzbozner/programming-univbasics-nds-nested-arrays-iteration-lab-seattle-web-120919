@@ -15,7 +15,7 @@ def find_greater_pair(arr)
   row_index = 0
   result = []
   while row_index < arr.length do
-    result.push(arr[row_index][0] + arr[row_index][1])
+    result.push(arr[row_index][0] + arr[row_index][1])to_i
     row_index += 1
   end
   result
