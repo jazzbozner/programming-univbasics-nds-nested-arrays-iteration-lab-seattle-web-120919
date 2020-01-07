@@ -11,6 +11,6 @@ def join_ingredients(arr)
 end
 
 def find_greater_pair(arr)
-  sum = arr.reduce {|array, sum| sum + array}
+  sum = arr.reduce {|array, sum| sum += array}
   sum
 end
