@@ -23,7 +23,7 @@ def find_greater_pair(arr)
 #     row_index += 1
 # end
 result
-# end
+end
 
 
   result = []
