@@ -11,5 +11,4 @@ def join_ingredients(arr)
 end
 
 def find_greater_pair(arr)
-  binding.pry
 end
